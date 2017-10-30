@@ -1,0 +1,268 @@
+<data>
+    <event start="Jun 6 1493 08:00 GMT" title="Edmonton Delegation Goes Missing">
+    </event>
+
+    <event start="Jun 26 1493 09:00:00 GMT" title="Party sets out from Belgorod">
+        Volk, Yolena, Sascha, and Drake set out to find the missing Edmonton delegation.
+        Cook, searching for her pirate nemesis, joins in because she thinks the party is also looking for a pirate.
+    </event>
+
+    <event start="Jun 27 1493 20:00 GMT" title="Rite of the Wicker Giant" icon="fire.png">
+        On the way to Rzhev, where the delegation was last sighted, party stops by Scarlet Moon Hall.
+        A group of local <i>druids</i> is gathering people for something called the Rite of the Wicker Giant.
+        Cook makes telepathic contact with burning wicker giant, hears "BURNING BURNING BURNING!"
+        Party runs away as <i>druids</i> fling fireballs.
+    </event>
+
+    <event start="Jun 27 1493 21:00 GMT" end="Jun 29 1493 12:00 GMT" isDuration="true" title="Journey to Rzhev">
+        The party completes the journey to Rzhev. Blue-armored, white-caped humanoids mounted on hippogriffs attack the party from the air.
+        Elaborate rope safety measures are taken when crossing the forbidding Stone Bridge (two miles long, 400 feet high) over Dassarin River.
+    </event>
+
+    <event start="Jun 30 1493 10:00 GMT" end="Jul 1 1493 11:00 GMT" isDuration="true" title="The Delegation Taken!">
+        Hearing in Rzhev that the delegation traveled to the south, the party takes The Dessarin Road out of town.
+        Eventually the party comes upon the site of a pitched battle, with evidence that the delgation was ambushed there.
+        Drake leads the party further south to The Hall of Prosperity, the headquarters of his order.
+        There Abbess Hayek tells the party the hippogriff riders probably came from Feathergale Spire, near Belgorod, and that the golden gargoyle mask found at the ambush site is the property of the Sacred Stone monks.
+    </event>
+
+    <event start="Jul 1 1493 12:00 GMT" end="Jul 2 1493 15:00 GMT" isDuration="true" title="The Pirate Life">
+        After a night at the Hall of Prosperity, the party returns to the ambush site and follows tracks leading to the river.
+        Making camp, the party is attacked by river pirates, who are slaughtered and provide the party with a boat.
+        In the morning, the party crosses the river, stopping by Rivergard Keep to bandy words with a rude, droopily-mustached individual.
+        Leaving the boat on the riverside, the party travels overland to the Sacred Stone Monastery.
+    </event>
+
+    <event start="Jul 2 1493 15:30 GMT" end="Jul 3 1493 09:00 GMT" isDuration="true" title="Slippery Slope Monastery">
+        The party arrives at the monastery, explains they were sent by Rivergard Keep, and asks for food and shelter.
+        Forewarned by droopy-mustache guy, the <b>monks</b> usher the party into audience with Qarbo, who dumps them into the tunnels underneath the monastery via stairs-to-ramp trap.
+        Making friends with a maimed umber hulk, the party explores the tunnels (with only a brief peek into a <i>totally for-sure safe</i> crypt).
+        Finding the way back up to the surface, the party dispatches Orog guards, pushes monks and the blind Hellerae back with a moonbeam, and cuts their way out.
+        The party evades a patrol sent after them from the monastary and fights off a night attack from a pair of hellhounds.
+    </event>
+
+    <event start="Jul 3 1493 09:00 GMT" title="LEVEL 4" icon="ding.jpeg">
+
+    </event>
+
+    <event start="Jul 3 1493 10:00 GMT" end="Jul 4 1493 16:00 GMT" isDuration="true" title="Assault on Rivergard Keep">
+        traveled to boat, fought ghouls residing in hold, rowed up river, scouted rivergard, made plan to ambush patrol
+
+        kidnapped keep guard, interrogated &amp; kill him, planned assault on keep
+
+        Distracted guards with “turbo fire” illusion while sniping, assaulted the west wall, slaughtered 12 bandits, 5
+        reavers, 1 thug, the bear broke down several keep doors and then thunderwaved droopy mustache guy
+
+        More fighting at the keep, eventually ran away, eluded pursuit, rested
+
+        Assaulted keep, sniped a couple arrow slits, carefully advanced on the keep, broke portcullis and some schmuck's
+        personal effects, entered through wall entrance, battered down barricade and inner door, ambushed by bugbears,
+        moonbeamed, reavers circling around
+
+        Kicked ass, no survivors, 50 yards of all color permanently drained out of the world centered on the keep
+    </event>
+
+    <event start="Jul 4 1493 16:00 GMT" title="Rivergard Keep Conquered" icon="swords.png">
+        Renamed Castle Black &amp; White.
+    </event>
+
+    <event start="Jul 4 1493 16:00 GMT" title="LEVEL 5" icon="ding.jpeg">
+
+    </event>
+
+    <event start="Jul 4 1493 16:00 GMT" end="Jul 5 1493 08:00 GMT" isDuration="true" title="Cleanup at Castle Black &amp; White">
+        Took care of business around at the keep (3 arcane locks), interrogated Grimjaw, found letter about delegation ambush,
+        discovered underground canal
+    </event>
+
+    <event start="Jul 5 1493 10:00 GMT" end="Jul 6 1493 10:00 GMT" isDuration="true" title="Resupply Run">
+        Set out from the keep, boat missing, evaded fire patrol, rowed across the river, defeated brigands, visited
+        Knights of Prosperity
+
+        Met Yao, ambushed by Orcs/Bugbears on the way to the boat (slaughtered all of them), rowed across river
+    </event>
+
+    <event start="Jul 6 1493 15:00 GMT" end="Jul 7 1493 13:00 GMT" isDuration="true" title="Battle for Sacred Stone Monastery">
+        Return and launch frontal assault on Sacred Stone Monastery
+
+        Killed wave after wave of monks, etc., axebeaks rended Qarbo limb from limb, ran out to the garden
+
+        Ran away from garden gargoyles, Cook felt watched during rest, evaded bumbling earth cultist patrol, went on
+        monastery roof, had Scott lead conjured bears on tour of monastery (Bear Force One), encountered duergar ambush
+
+        Slaughtered duergar, rescued prisoners, questioned Akeakamai (dwarven sage), told prisoners they would return
+        from depths by the end of the day to escort them home, prisoners barricaded themselves in kitchen area of
+        monastery (code word is tomato pasta)
+    </event>
+
+    <event start="Jul 7 1493 11:00 GMT" title="Sacred Stone Monastry Cleared" icon="swords.png">
+
+    </event>
+
+    <event start="Jul 7 1493 12:00 GMT" title="LEVEL 6" icon="ding.jpeg">
+
+    </event>
+
+    <event start="Jul 7 1493 12:00 GMT" title="Delegation Rescued" icon="trophy.png">
+
+    </event>
+
+    <event start="Jul 7 1493 13:00 GMT" end="Jul 7 1493 15:00 GMT" isDuration="true" title="Foray into the Depths">
+        Journeyed to chasm and broken gates at the entrance to some ancient underground structure, fought gargoyles,
+        attracted attention of gate defenders, preparing to engage them
+
+        Defeat burrowshark, eldritch blast bulette off bridge, hungers of hadar, retreat as remaining defenders go for
+        more help.
+    </event>
+
+    <event start="Jul 7 1493 16:00 GMT" end="Jul 9 1493 08:00 GMT" isDuration="true" title="Return to Belgorod">
+         Escort prisoners to Belgorod, messages from Abbess of Prosperity about impending fire cult attack,
+        fry some ghouls, see column of smoke on the horizon
+
+        Helped put out fires and heal people in Belgorod. Cook picked up orb, party fought off demon ambush.
+    </event>
+
+    <event start="Jul 9 1493 08:00 GMT" end="Jul 9 1493 18:00 GMT" isDuration="true" title="Hex the Eliminator">
+        Headed for monastery, diverted to Scarlet Moon Hall after menacing message to Sasha.
+
+        Prolonged fight at Scarlet Moon Hall, killed flame guardian and two werewolves, Sascha and Cook perished, Volk
+        sprinted away, Drake and Yolena played dead, barely made it out.
+    </event>
+
+    <event start="Jul 9 1493 16:00 GMT" title="Alexi is Born">
+
+    </event>
+
+    <event start="Jul 9 1493 18:00 GMT" end="Jul 11 1493 12:00 GMT" isDuration="true" title="Drake and Yolena's Wilderness Adventure">
+        They ran from gnolls, crit success on survival and made it back to Belgorod just a day behind Volk.
+    </event>
+
+    <event start="Jul 12 1493 08:00 GMT" title="The Job Fair">
+        Put up posters advertising for adventurers to take on the fire cult, interviewed clueless villagers, Salv, who was definitely not a necromancer, and Victor, gorgeous
+        collegue of Sascha’s.
+    </event>
+
+    <event start="Jul 13 1493 08:00 GMT" end="Jul 15 1493 14:00 GMT" isDuration="true" title="Scarlet Moon Slugfest">
+        Returned to Scarlet Moon Hall with Salv in tow. Noticed unusual numbers of lizards and snakes in the surrounding
+        area, who gave strange responses when questioned. Approached tower and defeated fire elemental and magmins.
+        Witnessed fight between two different groups of fire people, heard Hex performing some kind of ritual near the
+        top of the tower. Advanced up the scaffolding and into the tower, conjured bears to take out guards on second
+        level.
+
+        Fought up to Hex, defeated them with the help of fire mages, found Sasha’s corpse. Salv conducted exciting
+        examinations. Party squabbled over treasure, everyone annoyed Volk, Yelena yakety-saxed with attic bats. Party
+        forced to leave by fire cult party.
+
+        Two-pronged assault on Scarlet Moon Hall, group east spotted early, group south very sneaky. Yelena hits miracle
+        bow shot. Elk rams scaffolding, hobgoblin does epic diving attack. Victor shatters and tanks most of the damage.
+        Drake pulps guardian’s head, then gets nearly eviscerated by double crit.
+
+        Party fights through all the cult forces, evil clown fiesta of invisible Yelena and Vincenzo, giant snake gets
+        helped up to the tower entrance and later starts eating flame guardian, grossing everyone out.
+    </event>
+
+    <event start="Jul 14 1493 10:00 GMT" title="Hex Eliminated" icon="trophy.png">
+
+    </event>
+
+    <event start="Jul 15 1493 14:00 GMT" title="Scarlet Moon Hall Cleared" icon="swords.png">
+
+    </event>
+
+    <event start="Jul 16 1493 08:00 GMT" end="Jul 16 1493 10:00 GMT" isDuration="true" title="Hello Fire People">
+        Vincenzo and Volk scout the tunnel invisibly, party descends and enters slugfest with defending hobgoblins and
+        cultists. Yolena spends most of the fight tanking with AC 24. Lots of running through spike growth (by cultists)
+        and getting downed by fiery obsidian pillars (by PCs).
+
+        Volk (as polar bear) and Drake (with bejeweled maul courtesy of Vincenzo) go to town on magma pillars, but
+        cultist reactivates them. Yolena (with tongues) discovers activation and deactivation phrases. Party retreats
+        back up the tunnel
+    </event>
+
+    <event start="Jul 16 1493 10:00 GMT" end="Jul 17 1493 09:00 GMT" isDuration="true" title="Feathergale and Foraging">
+        Volk goes out foraging, feathergale society folks arrive at tower, Vincenzo talks them into
+        letting party return to tunnel, Volk comes trucking back as giant elk.
+
+        Vincenzo spoke with Feathergale lieutenant at tower is Sir Nigel Courtnay, gets intel on Black Earth base
+    </event>
+
+    <event start="Jul 17 1493 09:00 GMT" end="Jul 17 1493 15:00 GMT" isDuration="true" title="Treating with Twilight">
+        party went to monastery, gifted darkness orb to Twilight, Queen of the Evening Vine,
+        Salv leaves to talk with mysterious scholar locked away in part of the monastery
+    </event>
+
+    <event start="Jul 17 1493 16:00 GMT" end="Jul 17 1493 19:00 GMT" isDuration="true" title="Once More into the Breach">
+        descended to Black Earth fortress with dagger light
+        shining, repel down to cavern floor while sending axebeaks at the defenders
+
+        Volk as a bear climbed up the cliff, taunted by voice in the darkness, attacked by shadowy Margaret Thatcher,
+        rest of the party climbs the cliff (Drake has some struggles), Theresa May AOEed the party, fought their way
+        down the corridor, forced cultists to retreat from barracks
+
+        Party fought its way through black earth guards, cooking cultists, Theresa, and a pair of ogres (axebeak
+        madness). Vincenzo looted and fought shadow Thatcher. Explored with some axebeaks, encountered hobgoblin
+        potshots
+
+        Battle continued, Vincenzo finally joined, charmed burrowshark, blink and misty step shenanigans. Meanwhile,
+        party slaughtered hobgoblins and hellenrae plus some cultists (one of whom awoke to a javelin). With Yolena and
+        Drake down, and Volk in Elk form to survive, Viktor drained all sorcery points to kill the bulette with
+        lightning (wild magic turned Drake’s ring of swimming into crystal)
+
+        Battle continued, elk gored burrowshark, then axebeaks picked it to pieces, blink continued to confuse many
+        enemies.
+    </event>
+
+    <event start="Jul 17 1493 19:00 GMT" title="Talk with Tony">
+        After killing everyone, negotiated with Tony Blair (he told them of air’s terrible plans), had axebeaks
+        tear down the portcullis, left the temple
+    </event>
+
+    <event start="Jul 17 1493 20:00 GMT" end="Jul 19 1493 09:00 GMT" isDuration="true" title="Rest &amp; Resupply">
+        Party headed for Castle Black and White, took dinghy across river, arrived at the Abbey of the Knights of
+        Prosperity. Yolena drops armor off for repairs, Vincenzo goes on a shopping spree, party arranges for Abbess to
+        cure Viktor and Yolena’s mental afflictions (Drake pisses off the Abbess by questioning her honor, but makes
+        amends via indulgences). Drake, Volk, and Yolena experiment with the dagger, eventually giving it to Yolena
+        whereupon it reveals its sentience, holy powers, and racism.
+
+        Bought potions, left Knights of Prosperity, took boat back to Castle Black and White. Lots of discussions with
+        Alexi.
+    </event>
+
+    <event start="Jul 19 1493 15:00 GMT" end="Jul 20 1493 08:00 GMT" isDuration="true" title="Capitalist Crusade">
+        While heading for Feathergale Spire, spot socialist cult stone chapel (James’ dungeon). Brief
+        exploration, trigger statue trap, get electrified (except Drake), topple statue, ghost priest comes raging out
+        at them.
+
+        No one succumbed to “Share My Burden” from ghost, ghost possesses statue, but gets rekt. Party explores the rest
+        of the chapel, defeats wraith, finds some money and some cool books.
+    </event>
+
+    <event start="Jul 20 1493 09:00 GMT" end="Jul 20 1493 17:00 GMT" isDuration="true" title="The Spire Assailed">
+        Party heads for the spire, Victor and Volk get turned invisible by Vincenzo and assault the drawbridge chains.
+        The party then starts a short rest, giving the air cultists time to levitate the drawbridge. The party begins an
+        assault on the spire.
+
+        Assault continues
+
+        Assault continuers, party makes its way to the pinnacle, meets Jackie, orc mage, air myrmidon, and glass cube
+        containing some kind of air power
+
+        Party defeats Jackie, causing cube to begin rising and howling. Yolena jumps onto the cube. Air myrmidon enters
+        the cube, empowering it. Yolena then breaks the cube, unleashing a tremendous cyclone. Lots of shenanigans with
+        ropes as Vincenzo tries to make it off the roof. Yolena asks Alexi for aid, granting them her HD. Alexi sprouts
+        golden wings, plunges towards the valley floor before Yolena finally gets through and directs them back up the
+        tower. The cyclone dissipates, and the party loots a bunch of chests.
+    </event>
+
+    <event start="Jul 20 1493 17:00 GMT" title="Feathergale Spire Cleared" icon="swords.png">
+
+    </event>
+
+    <event start="Jul 20 1493 16:30 GMT" title="The North Wind Released" icon="tornado.png">
+
+    </event>
+
+    <event start="Jul 20 1493 17:00 GMT" title="LEVEL 7" icon="ding.jpeg">
+
+    </event>
+</data>

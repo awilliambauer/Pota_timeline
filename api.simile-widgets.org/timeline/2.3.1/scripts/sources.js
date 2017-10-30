@@ -37,7 +37,7 @@ Timeline.DefaultEventSource.prototype.loadXML = function(xml, url) {
         if (node.nodeType == 1) {
             var description = "";
             if (node.firstChild != null && node.firstChild.nodeType == 3) {
-                description = node.firstChild.nodeValue;
+                description = node.innerHTML;
             }
             // instant event: default is true. Or use values from isDuration or durationEvent
             var instant = (node.getAttribute("isDuration")    === null &&
